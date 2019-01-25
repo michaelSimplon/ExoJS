@@ -1,3 +1,3 @@
 Exercice 1 : Ma premiere page avec javascript
 
-Le fichier html est un peu terne comme ça , rendez le actif en affichant un bon vieux Helloworld dans une boite de dialogue au chargement de la page.
+Le fichier HTML est un peu terne comme ça , rendez le actif en affichant un bon vieux Helloworld dans une boite de dialogue au chargement de la page.
